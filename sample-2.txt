@@ -1,1 +1,2 @@
 this is sample text file. 2019-04-20
+https://github.com/m-komachu/sample-02.git
